@@ -22,22 +22,11 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
-
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
+CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM
 
  
-**Thevenin’s equivalent circuit**
+<img width="309" height="470" alt="image" src="https://github.com/user-attachments/assets/22868479-78f3-4399-9409-74c9a0329cc8" />
 
-
-**Norton’s equivalent circuit**
 
 
 **PROCEDURE:**
@@ -70,25 +59,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
+**TABULAR COLUMN: **
 
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
+<img width="286" height="490" alt="image" src="https://github.com/user-attachments/assets/7c216933-5452-432f-859e-256eab02f7dc" />
 
 
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
 **MODEL CALCULATION:**
+
+<img width="622" height="838" alt="image" src="https://github.com/user-attachments/assets/ea003059-d721-43e9-95ff-e96b10f1ebd9" />
+
+
 
 Practical value of IL (from tabulation 1) =2.3mA
 
@@ -98,8 +78,16 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+Marksplit up:
+
+<img width="770" height="540" alt="image" src="https://github.com/user-attachments/assets/18ea2c18-7623-4f77-bef3-b357ee7bead1" />
+
 
 
 **RESULT:**
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+
+<img width="549" height="216" alt="image" src="https://github.com/user-attachments/assets/b0633955-bdc2-464d-ac24-1416cbdac1ff" />
+
+
